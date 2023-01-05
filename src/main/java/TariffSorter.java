@@ -1,3 +1,5 @@
+import Tariffs.Tariff;
+
 import java.util.*;
 
 public class TariffSorter {

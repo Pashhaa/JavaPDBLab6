@@ -1,3 +1,8 @@
+import Tariffs.CheapTariff;
+import Tariffs.ExpensiveTariff;
+import Tariffs.MediumTariff;
+import Tariffs.Tariff;
+
 import java.util.Arrays;
 
 

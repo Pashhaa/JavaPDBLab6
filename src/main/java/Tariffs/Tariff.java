@@ -1,3 +1,5 @@
+package Tariffs;
+
 public abstract class Tariff {
     public String name;
     public int price;
@@ -20,7 +22,7 @@ public abstract class Tariff {
 
     @Override
     public String toString() {
-        return "Tariff\s" + name +
+        return "Tariffs.Tariff\s" + name +
                 "\sprice=" + price ;
     }
 }
